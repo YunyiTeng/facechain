@@ -1,0 +1,10 @@
+{
+    "name": "电竞风(Esport)",
+    "img": "./style_image/Esport.jpg",
+    "model_id": "Tyytyy528/TyyEsports",
+    "revision": "v4.0.0",
+    "bin_file": "esport_v4_-000006.safetensors",
+    "multiplier_style": 0.5,
+    "multiplier_human": 0.9,
+    "add_prompt_style": "Dianjing, e-sport, blue and black headphone, sparkle, cool and dark tone, Neon background, purple background, Computer games, indoors, extremely delicate and beautiful girls, upper_body, masterpiece, solo, medium shot, high detail fce, photorealistic, best quality"
+}
